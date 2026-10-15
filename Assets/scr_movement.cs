@@ -25,7 +25,7 @@ public class scr_movement : MonoBehaviour
     public float CoyoteTime = 0.2f;
     public float CoyoteTimetimer;
 
-    public int extraJumpsVal = 1;
+    public int extraJumpsVal = 2;
     private int extraJumps = 0;
 
     public float jumpBufferTime = 0.15f;
@@ -78,7 +78,7 @@ public class scr_movement : MonoBehaviour
             jumpBufferCounter -= Time.deltaTime;
 
         }
-            
+            //ibiza 
         if (jumpBufferCounter > 0f)
         {
          if (CoyoteTimetimer > 0f)
