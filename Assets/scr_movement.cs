@@ -6,7 +6,7 @@ public class scr_movement : MonoBehaviour
 {
 
     
-    public float speed = 4f;
+    public float speed = 8f;
     
     public float jumpForce = 10f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
