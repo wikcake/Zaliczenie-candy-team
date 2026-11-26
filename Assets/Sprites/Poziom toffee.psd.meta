@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 8b973ac91f0c2134087fb07ed6ad11b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3400998907034385631
+    second: Poziom toffee_0
+  - first:
+      213: -5543269548371955979
+    second: Poziom toffee_1
+  - first:
+      213: -1967902196154194051
+    second: Poziom toffee_2
+  - first:
+      213: 8640186903573507261
+    second: Poziom toffee_3
+  - first:
+      213: -2863649769715095381
+    second: Poziom toffee_4
+  - first:
+      213: 2236695542457732775
+    second: Poziom toffee_5
+  - first:
+      213: 2617755452811904339
+    second: Poziom toffee_6
+  - first:
+      213: 990519542086073593
+    second: Poziom toffee_7
+  - first:
+      213: 188097454051694939
+    second: Poziom toffee_8
+  - first:
+      213: 4667502363236015271
+    second: Poziom toffee_9
+  - first:
+      213: 4500092643973633130
+    second: Poziom toffee_10
+  - first:
+      213: -3441223473034292450
+    second: Poziom toffee_11
+  - first:
+      213: 6548131203086458576
+    second: Poziom toffee_12
+  - first:
+      213: 8795509483356525591
+    second: Poziom toffee_13
+  - first:
+      213: -6677389019242910102
+    second: Poziom toffee_14
+  - first:
+      213: 6489821056759449306
+    second: Poziom toffee_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poziom toffee_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3617
+        width: 391
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12349b863893dc0d0800000000000000
+      internalID: -3400998907034385631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 3795
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feac0b17b95213b0800000000000000
+      internalID: -5543269548371955979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_2
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 3669
+        width: 52
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77a485016b90b4e0800000000000000
+      internalID: -1967902196154194051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_3
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 2294
+        width: 3067
+        height: 1801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc2b7c063c18e770800000000000000
+      internalID: 8640186903573507261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3754
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8a00be4b54248d0800000000000000
+      internalID: -2863649769715095381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_5
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3732
+        width: 127
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae84eeceb65a0f10800000000000000
+      internalID: 2236695542457732775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_6
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 3704
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35502b107b2245420800000000000000
+      internalID: 2617755452811904339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3018
+        width: 164
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc7f1986480fbd00800000000000000
+      internalID: 990519542086073593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1154
+        width: 813
+        height: 2306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5918eb43a14c9200800000000000000
+      internalID: 188097454051694939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_9
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1164
+        width: 2674
+        height: 2306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac9afc7bac46c040800000000000000
+      internalID: 4667502363236015271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_10
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 3345
+        width: 342
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64956cca6a837e30800000000000000
+      internalID: 4500092643973633130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_11
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 2864
+        width: 478
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e131e01db715e30d0800000000000000
+      internalID: -3441223473034292450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2666
+        width: 460
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de9e9eb2a2afda50800000000000000
+      internalID: 6548131203086458576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1162
+        width: 701
+        height: 1328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7149b06464def0a70800000000000000
+      internalID: 8795509483356525591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_14
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 2307
+        width: 342
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eaee8b0162553a0800000000000000
+      internalID: -6677389019242910102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poziom toffee_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8191
+        height: 2171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad64ff7ddd9701a50800000000000000
+      internalID: 6489821056759449306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Poziom toffee_0: -3400998907034385631
+      Poziom toffee_1: -5543269548371955979
+      Poziom toffee_10: 4500092643973633130
+      Poziom toffee_11: -3441223473034292450
+      Poziom toffee_12: 6548131203086458576
+      Poziom toffee_13: 8795509483356525591
+      Poziom toffee_14: -6677389019242910102
+      Poziom toffee_15: 6489821056759449306
+      Poziom toffee_2: -1967902196154194051
+      Poziom toffee_3: 8640186903573507261
+      Poziom toffee_4: -2863649769715095381
+      Poziom toffee_5: 2236695542457732775
+      Poziom toffee_6: 2617755452811904339
+      Poziom toffee_7: 990519542086073593
+      Poziom toffee_8: 188097454051694939
+      Poziom toffee_9: 4667502363236015271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
